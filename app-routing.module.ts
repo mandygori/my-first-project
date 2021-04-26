@@ -4,7 +4,6 @@ import { ContactComponent } from 'src/app/contact/contact.component'
 
 const routes: Routes = [
   { path: 'contact-us', component: ContactComponent}
-
 ];
 
 @NgModule({
